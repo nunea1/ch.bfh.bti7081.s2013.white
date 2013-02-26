@@ -2,9 +2,8 @@
 2013-02-19 - Initial repository setup
 
 Autoren:
-Marc Sch�rer
+Marc Schürer
 Arthur van Ommen
 Patrick Kofmehl
 Fabian Affolter
 Alejandro Nunez
-TestAlex
